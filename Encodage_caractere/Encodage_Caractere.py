@@ -1,6 +1,3 @@
-import os
-os.system('cls')
-
 # Formate les nombres avec des espaces (ex : 76120 = 76 120)
 def formatNumberResult(x):
     x = int(x)
@@ -68,5 +65,4 @@ while option != "7":
     except:
         print("Vous n'avez pas rentré de valeur valide.\n")
 
-os.system('cls')
 print("Vous avez quitté le programme.")
