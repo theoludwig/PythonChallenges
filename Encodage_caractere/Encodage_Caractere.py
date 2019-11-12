@@ -13,15 +13,12 @@ Choisissez une option:
 \t6: Hexadécimal en Binaire
 \t7: Quitter le programme
 """
+
 option = "0"
-
 resultat = ""
-
 while option != "7":
     option = input(affichage)
     try:
-        os.system('cls')
-
         # Décimal en Binaire
         if option == "1":
             valeur = input("Votre valeur : ")
@@ -59,9 +56,6 @@ while option != "7":
             valeur = input("Votre valeur : ")
             resultat = bin(int(valeur, 16)).replace("0b", "")
             print(f"Hexadécimal : {valeur} \nBinaire : {resultat}")
-
-        else:
-            print("Vous n'avez pas rentré de valeur valide.\n")
     except:
         print("Vous n'avez pas rentré de valeur valide.\n")
 
