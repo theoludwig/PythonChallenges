@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/facebook/react-native/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="License MIT"/> 
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="Licence MIT"/></a>
+  <img src="https://img.shields.io/github/repo-size/Divlo/PythonChallenges" alt="Repo Size">
+  <a href="https://github.com/Divlo/PythonChallenges/commits/master"><img src="https://img.shields.io/github/last-commit/Divlo/PythonChallenges" alt="Last commit"></a>
+  <a href="https://github.com/Divlo/PythonChallenges/graphs/contributors"><img src="https://img.shields.io/github/contributors/Divlo/PythonChallenges" alt="Contributeurs"></a>
+  <img src="https://img.shields.io/github/stars/Divlo/PythonChallenges?style=social" alt="Stars">
     <br> <br>
-    <img width="30%" src="./logo_python.png" alt="Python"/>
-  </a>
+    <img style="width: 30%; max-width: 120px;min-width: 60px" src="./logo_python.png" alt="Python"/>
 </p>
 
 
