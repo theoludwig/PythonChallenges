@@ -10,8 +10,8 @@
   <a href="https://github.com/Divlo/PythonChallenges/commits/master"><img src="https://img.shields.io/github/last-commit/Divlo/PythonChallenges" alt="Last commit"></a>
   <a href="https://github.com/Divlo/PythonChallenges/graphs/contributors"><img src="https://img.shields.io/github/contributors/Divlo/PythonChallenges" alt="Contributeurs"></a>
   <img src="https://img.shields.io/github/stars/Divlo/PythonChallenges?style=social" alt="Stars">
-    <br> <br>
-    <img style="width: 30%; max-width: 120px;min-width: 60px" src="./logo_python.png" alt="Python"/>
+  <br> <br>
+  <img src="./PythonChallenges.svg" alt="Python"/>
 </p>
 
 
