@@ -6,12 +6,10 @@ def estValeurVide(valeur):
 
 # Choix des valeurs et Modes de Jeux
 def choixModeDeJeu(modeDeJeu):
-    if modeDeJeu == "Facile":
-        return [True, modeDeJeuFacile]
-    elif modeDeJeu == "Difficile":
-        return [True, modeDeJeuDifficile]
+    if modeDeJeu == "Difficile":
+        return modeDeJeuDifficile
     else:
-        return [False]
+        return modeDeJeuFacile
 def modeDeJeuFacile(couleurJuste, couleurMauvaisePlace):
     print("Couleurs justes et bonne place :", couleurJuste)
     print("Couleurs justes mais mal placées :", couleurMauvaisePlace)
