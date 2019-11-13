@@ -1,10 +1,10 @@
 from random import randint
 
 # Fonction Valeur vide
-def isEmptyValue(value):
-    return value == '' or value is None
+def estValeurVide(valeur):
+    return valeur == '' or valeur is None
 
-# Modes de Jeux
+# Choix des valeurs et Modes de Jeux
 def choixModeDeJeu(modeDeJeu):
     if modeDeJeu == "Facile":
         return [True, modeDeJeuFacile]
@@ -18,6 +18,16 @@ def modeDeJeuFacile(couleurJuste, couleurMauvaisePlace):
 def modeDeJeuDifficile(couleurJuste, couleurMauvaisePlace):
     print("Vous avez", len(couleurJuste), "couleurs justes et à la bonne place!")
     print("Vous avez", len(couleurMauvaisePlace), "couleurs justes mais à la mauvaise place!")
+def choixNombreCouleurADeviner(nombreCouleurADeviner):
+    if estValeurVide(nombreCouleurADeviner):
+       return 5
+    else:
+        return int(nombreCouleurADeviner)
+def choixNombreEssaiMaximum(nombreEssaiMaximum):
+    if estValeurVide(nombreEssaiMaximum):
+       return 12
+    else:
+        return int(nombreEssaiMaximum)
 
 # La fonction Mastermind
 def mastermind(nombreEssaiMaximum  = 12, nombreCouleurADeviner = 5, modeDeJeu = modeDeJeuFacile):
@@ -80,22 +90,9 @@ def mastermind(nombreEssaiMaximum  = 12, nombreCouleurADeviner = 5, modeDeJeu = 
 nombreEssaiMaximum = input("Nombre d'essai maximum : ")
 nombreCouleurADeviner = input("Nombre de couleurs à deviner : ")
 modeDeJeu = input("Mode de jeu Facile/Difficile ? ")
-print()
+print("")
 
 try:
-    choixModeDeJeuValeur = choixModeDeJeu(modeDeJeu)
-    emptyValueResults = [isEmptyValue(nombreEssaiMaximum), isEmptyValue(nombreCouleurADeviner)]
-    if choixModeDeJeuValeur[0] and (not emptyValueResults[0] and not emptyValueResults[1]):
-        mastermind(int(nombreEssaiMaximum), int(nombreCouleurADeviner), choixModeDeJeuValeur[1])
-    elif not emptyValueResults[0]:
-        mastermind(int(nombreEssaiMaximum))
-    elif not emptyValueResults[1]:
-        mastermind(12, int(nombreCouleurADeviner))
-    elif not choixModeDeJeuValeur[0] and (not emptyValueResults[0] and not emptyValueResults[1]):
-        mastermind(int(nombreEssaiMaximum), int(nombreCouleurADeviner))
-    elif choixModeDeJeuValeur[0]:
-        mastermind(12, 5, choixModeDeJeuValeur[1])
-    else:
-        mastermind()
+    mastermind(choixNombreEssaiMaximum(nombreEssaiMaximum), choixNombreCouleurADeviner(nombreCouleurADeviner), choixModeDeJeu(modeDeJeu))
 except:
     print("Oups, il y a une erreur. \n")
