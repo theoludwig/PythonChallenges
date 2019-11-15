@@ -37,4 +37,17 @@ Couleurs mauvaise place :  [['Rouge', 2], ['Gris', 3]]
 Il vous reste 11 essais...
 ```
 
-Bon courage! 😃
+## Solutions
+
+Le code de la solution a été écrit sous Windows 10 avec Python v3.7.4.
+
+Au moment où vous lancez mon programme, vous devrez entrer le nombre d'essais maximum, le nombre de couleurs à deviner et le mode de jeu (Facile ou Difficile).
+
+Si vous n'entrez rien, les valeurs par défaut s'appliqueront :
+```
+- 12
+- 5
+- Facile
+```
+
+Le mode de jeu Facile affiche la position des couleurs justes/mauvaise place alors que le mode difficile dit rien sur la position ou sur la couleur, il dit juste le nombre de couleur juste/mauvaise place.

@@ -3,7 +3,7 @@
 ## Notions abordées
 
 - Condition
-- Fonctions utilisées : int(), hex(), bin()
+- Fonctions utilisées : ```int(), hex(), bin()```
 
 ## Énoncé
 
