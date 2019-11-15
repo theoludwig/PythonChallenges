@@ -2,7 +2,7 @@
 
 ## Types de contributions
 
-* Proposer un challenge/exercice 
+* Proposer un challenge/exercice
 * Partager une nouvelle solution pour un exercice déjà présent
 * Corriger une faute d'orthographe
 
@@ -25,7 +25,7 @@ Le plus souvent, les forks sont utilisées pour proposer des modifications au pr
 
 #### Créer l'énoncé d'un exercice :
 
-Afin de facilement se repérer, veuillez mettre votre nouveau challenge dans un nouveau dossier à la racine du Projet avec un nom explicite ainsi qu'à respecter le format : ```Nom_du_challenge```, c'est-à-dire commencer par une majuscule et éviter les espaces/accents...
+Afin de facilement se repérer, veuillez mettre votre nouveau challenge dans un nouveau **dossier à la racine du Projet** avec un nom explicite ainsi qu'à respecter le format : ```Nom_du_challenge```, c'est-à-dire commencer par une majuscule et éviter les espaces/accents...
 
 À la racine de ce nouveau dossier, vous veillerez à mettre un fichier ```README.md``` expliquant l'énoncé de l'exercice.
 
@@ -60,5 +60,4 @@ Si vous avez fork un repo et vous y avez apporté des modifications, vous pouvez
 
 [Plus d'informations sur la documentation de GitHub pour faire un pull request.](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
-
-Merci de votre soutien!
+Merci de votre soutien !

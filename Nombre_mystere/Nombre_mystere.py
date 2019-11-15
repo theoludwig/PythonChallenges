@@ -16,11 +16,11 @@ for i in range(5):
 
     # Vérifications si le nombre est plus petit/grand au nombre mystère
     if nombre > nombre_mystere:
-        print(f"Le nombre mystère est plus petit que {nombre}")
+        print("Le nombre mystère est plus petit que", nombre)
     elif nombre < nombre_mystere:
-        print(f"Le nombre mystère est plus grand que {nombre}")
+        print("Le nombre mystère est plus grand que", nombre)
     else:
         print("Bravo, vous avez trouvé le nombre mystère !")
-        break
+        exit()
 
-print(f"Vous avez perdu. Le nombre mystère était {nombre_mystere}.")
+print("Vous avez perdu. Le nombre mystère était", nombre_mystere)

@@ -1,21 +1,16 @@
 # Mastermind
 
-## Difficulté
-Pas évident au premier abord, je vous conseille avant de taper du code de mettre en commentaire comment vous allez procéder. 
-
 ## Notions abordées
-- Condition 
-- Boucle
+- Condition et Boucle
 - Liste 
-- Module random
+- Module ```random```
 - Fonctions split ou/et compréhension de liste
 
 ## Histoire et Règles
-```
+
 Le Mastermind est un jeu de société pour deux joueurs dont le but est de trouver un code. Jeu de réflexion, et de déduction, inventé dans les années 1970.
 Le but est de deviner, par déductions successives, la couleur et la position des 5 pions cachés que l'adversaire a choisi (en l'occurrence dans notre cas ça sera python qui choisira aléatoirement).
 Donc le joueur a 12 essais pour deviner la couleur et la position de la combinaison, à chaque fois que le joueur essaye, l'adversaire (en l'occurrence python encore une fois) devra nous indiquer si il y a des pions qui ont la bonne couleur et bien placés ou si il y a des bonnes couleurs mais qui sont mal placés, voilà donc à chaque tour le joueur réessaye une combinaison en prenant compte le résultat de l'adversaire pour essayer de deviner la combinaison en moins d'essais possible.
-```
 
 ## Énoncé
 Les couleurs disponibles seront :

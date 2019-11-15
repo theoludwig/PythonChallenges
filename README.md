@@ -14,11 +14,10 @@
   <img src="./PythonChallenges.svg" alt="Python"/>
 </p>
 
-
 ## 🐍 À propos
 **PythonChallenges** regroupe plein d'exercices et challenges en français pour s'améliorer en Python.
 
-Chaque challenge dispose de ça solution et de son énoncé afin que vous puissiez essayer de les résoudre tout seul, parfait pour s'entraîner et pratiquer votre algorithmie en Python. 
+Chaque **challenge** dispose de ça **solution** et de son **énoncé** afin que vous puissiez essayer de les résoudre tout seul, parfait pour s'entraîner et pratiquer votre algorithmie en **Python**. 
 
 ## 📖 Sommaire des challenges
 
@@ -32,7 +31,7 @@ Chaque challenge dispose de ça solution et de son énoncé afin que vous puissi
 ## 🧠 Bloquer sur un exercice ?
 
 Surtout n'abandonner pas, et ne regarder pas la solution, faîtes la vôtre !
-Afin de vous aider à résoudre ces différents exercices, j'ai mis en place un fichier [HELP.md](./HELP.md) avec la méthodologie que j'utilise quand je suis face à un problème donnée. C'est une méthodologie parmi tant d'autre et malheureusement ça ne fait pas des miracles alors motivez-vous et au boulot ! 😉
+Afin de vous aider à résoudre ces différents exercices, j'ai mis en place un fichier [HELP.md](./HELP.md) avec la méthodologie que j'utilise quand je suis face à un problème donnée. C'est une méthodologie parmi tant d'autre et malheureusement ça ne fait pas des miracles alors au boulot ! 😉
 
 ## 🚀 Comment contribuer ? 
 

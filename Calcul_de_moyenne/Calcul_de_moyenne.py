@@ -1,6 +1,6 @@
 try:
     # Demande à l'utilisateur une liste de notes (exemple: 12, 16, 18, 6, 10) 
-    nombres = input("Veuillez rentré une liste de notes (séparer par virgule) : ").split(", ")
+    nombres = input("Veuillez rentrer une liste de notes (séparées par virgules) : ").split(", ")
 
     # Convertis chaque élément de la liste créé avec split() en float
     nombresListe = [float(x) for x in nombres]

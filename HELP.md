@@ -5,17 +5,17 @@ C'est une méthodologie parmi tant d'autre et malheureusement ça ne fait pas de
 
 ## Décrire la solution
 
-Concrètement vous allez rédiger les étapes en français c'est-à-dire vous écrivez selon-vous ce qu'il faudrait faire (ça peut être en vrac au début, juste toutes les idées qui vous passent par la tête), n'hésitez pas à prendre un brouillon et à faire un schéma si cela vous aide.
+Concrètement vous allez rédiger les **étapes en français** c'est-à-dire vous écrivez selon-vous ce qu'il faudrait faire (ça peut être en vrac au début, juste toutes les idées qui vous passent par la tête), n'hésitez pas à prendre un brouillon et à faire un schéma si cela vous aide.
 
-Posez-vous toujours la question de comment **nous** humain réglons ce problème, mettez ça sur un brouillon étape par étape.
+Posez-vous toujours la question de comment **nous** humain réglons ce problème, mettez ça sur un **brouillon étape par étape**.
 
 ## Diviser le problème en plusieurs sous-problèmes
 
 Une fois que vous avez des idées comme ça en français, vous pouvez vous concentrer chaque étape un à un.
 Si vraiment vous n'avez absolument aucune idée, aucune piste, de comment résoudre l'exercice, c'est probablement qu'il est trop difficile pour votre niveau.
 Si l'exercice est de votre niveau, normalement, vous devrez avoir au moins des pistes.
-Après aussi, il faut bien connaître le langage. Connaître les méthodes des chaînes de caractères, des listes, des nombres entier etc, ça aide à trouver des solutions.
-Vous n'êtes pas obligé de tout connaître. Vous pouvez faire une recherche sur google (sur Stack Overflow) devrait vous permettre de trouver la méthode ou fonction pour faire cette étape.
+Après aussi, il faut bien connaître le langage. **Connaître les méthodes des chaînes de caractères, des listes, des nombres entier etc**, ça aide à trouver des solutions.
+Vous n'êtes pas obligé de tout connaître. Vous pouvez faire une recherche sur **google (sur Stack Overflow)** devrait vous permettre de trouver la méthode ou fonction pour faire cette étape.
 
 ## Exemple concret :
 
@@ -39,7 +39,7 @@ etc.
 ...
 ```
 
-Comme je l'ai dit, il est inutile de tout savoir et c'est même quasiment impossible, vaut mieux connaître en survol les fonctions mais si vous avez besoin de la syntaxe exacte, vous rechercherez sur internet, par exemple pour trouver la taille d'un mot :
+Comme je l'ai dit, il est **inutile de tout savoir** et c'est même quasiment **impossible**, vaut mieux connaître en survol les fonctions mais si vous avez besoin de la syntaxe exacte, vous **rechercherez sur internet**, par exemple pour trouver la taille d'un mot :
 De préférence en anglais : ```length string Python```, 1er résultat, vous trouverez la fonction ```len()```, par ailleurs noté que je n'ai pas fait de phrase, mettez des mots-clés ça sera plus efficace.
 
 Ainsi de suite...
