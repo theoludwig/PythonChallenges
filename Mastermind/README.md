@@ -9,7 +9,7 @@
 ## Histoire et Règles
 
 Le Mastermind est un jeu de société pour deux joueurs dont le but est de trouver un code. Jeu de réflexion, et de déduction, inventé dans les années 1970.
-Le but est de deviner, par déductions successives, la couleur et la position des 5 pions cachés que l'adversaire a choisi (en l'occurrence dans notre cas ça sera python qui choisira aléatoirement).
+Le but est de deviner, par déductions successives, la couleur et la position des 5 pions cachés que l'adversaire a choisie (en l'occurrence dans notre cas ça sera python qui choisira aléatoirement).
 Donc le joueur a 12 essais pour deviner la couleur et la position de la combinaison, à chaque fois que le joueur essaye, l'adversaire (en l'occurrence python encore une fois) devra nous indiquer si il y a des pions qui ont la bonne couleur et bien placés ou si il y a des bonnes couleurs mais qui sont mal placés, voilà donc à chaque tour le joueur réessaye une combinaison en prenant compte le résultat de l'adversaire pour essayer de deviner la combinaison en moins d'essais possible.
 
 ## Énoncé
@@ -45,9 +45,9 @@ Au moment où vous lancez mon programme, vous devrez entrer le nombre d'essais m
 
 Si vous n'entrez rien, les valeurs par défaut s'appliqueront :
 ```
-- 12
-- 5
-- Facile
+- 12 : nombre d'essais maximum
+- 5 : nombre de couleurs à deviner
+- Facile : mode de jeu
 ```
 
-Le mode de jeu Facile affiche la position des couleurs justes/mauvaise place alors que le mode difficile dit rien sur la position ou sur la couleur, il dit juste le nombre de couleur juste/mauvaise place.
+Le mode de jeu Facile affiche la position des couleurs justes/mauvaise place alors que le mode difficile dit rien sur la position ou sur la couleur, il dit juste le nombre de couleurs juste/mauvaise place.

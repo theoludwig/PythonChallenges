@@ -25,7 +25,7 @@ Le plus souvent, les forks sont utilisées pour proposer des modifications au pr
 
 #### Créer l'énoncé d'un exercice :
 
-Afin de facilement se repérer, veuillez mettre votre nouveau challenge dans un nouveau **dossier à la racine du Projet** avec un nom explicite ainsi qu'à respecter le format : ```Nom_du_challenge```, c'est-à-dire commencer par une majuscule et éviter les espaces/accents...
+Afin de facilement se repérer, veuillez mettre votre nouveau challenge dans un nouveau **dossier à la racine du projet** avec un nom explicite ainsi qu'à respecter le format : ```Nom_du_challenge```, c'est-à-dire commencer par une majuscule et éviter les espaces/accents...
 
 À la racine de ce nouveau dossier, vous veillerez à mettre un fichier ```README.md``` expliquant l'énoncé de l'exercice.
 

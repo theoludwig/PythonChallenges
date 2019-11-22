@@ -23,7 +23,7 @@ Choisissez une option:
 Puis vous devez pour chaque option calculer la conversion, convertir un nombre décimal en binaire, inversement, etc. 
 
 __Exemple :__
-Si l'utilisateur choisis la 1ère option et ensuite qu'il écrit 2, le programme devra afficher : 
+Si l'utilisateur choisit la 1ère option et ensuite qu'il écrit 2, le programme devra afficher : 
 ```
 Décimal : 2 
 Binaire : 10

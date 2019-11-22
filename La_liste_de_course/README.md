@@ -20,9 +20,9 @@ Choisissez une option:
 """
 ```
 
-Ensuite selon l'option choisis par l'utilisateur, ajoute/enlève un élément, afficher/vider la liste.
+Ensuite selon l'option choisie par l'utilisateur, ajoute/enlève un élément, afficher/vider la liste.
 
-Puis une fois que l'utilisateur a finis de rajouter ces élements, il peut choisir l'option 5 pour sauvegarder la liste dans le dossier courant dans un fichier json, la prochaine fois que l'utilisateur relance le programme, il faudra que le programme s'occupe de charger le json afin de remettre la liste que l'utilisateur avait écrit.
+Puis une fois que l'utilisateur a fini de rajouter ces éléments, il peut choisir l'option 5 pour sauvegarder la liste dans le dossier courant dans un fichier json, la prochaine fois que l'utilisateur relance le programme, il faudra que le programme s'occupe de charger le json afin de remettre la liste que l'utilisateur avait écrite.
 
 ## Solutions
 
