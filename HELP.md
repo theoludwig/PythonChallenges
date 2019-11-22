@@ -5,7 +5,7 @@ C'est une méthodologie parmi tant d'autre et malheureusement ça ne fait pas de
 
 ## Décrire la solution
 
-Concrètement vous allez rédiger les **étapes en français** c'est-à-dire vous écrivez selon-vous ce qu'il faudrait faire (ça peut être en vrac au début, juste toutes les idées qui vous passent par la tête), n'hésitez pas à prendre un brouillon et à faire un schéma si cela vous aide.
+Concrètement, vous allez rédiger les **étapes en français**, c'est-à-dire vous écrivez selon-vous ce qu'il faudrait faire (ça peut être en vrac au début, juste toutes les idées qui vous passent par la tête), n'hésitez pas à prendre un brouillon et à faire un schéma si cela vous aide.
 
 Posez-vous toujours la question de comment **nous** humain réglons ce problème, mettez ça sur un **brouillon étape par étape**.
 

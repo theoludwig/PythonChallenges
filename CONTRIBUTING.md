@@ -35,14 +35,14 @@ Afin de facilement se repérer, veuillez mettre votre nouveau challenge dans un 
 
 # Notions abordées (ainsi que les potentiels modules à utiliser)
 - Boucles
-- Conditons
+- Conditions
 ...
 
 # Énoncé
 ... Explication simple et clair ...
 ```
 
-(Vous pouvez, si vous le souhaitez mettre un nouveau énoncé sans la solution de celui-ci)
+(Vous pouvez, si vous le souhaitez mettre un nouvel énoncé sans la solution de celui-ci)
 
 #### La solution du nouvel exercice
 

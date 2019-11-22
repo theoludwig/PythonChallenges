@@ -37,7 +37,7 @@ Afin de vous aider à résoudre ces différents exercices, j'ai mis en place un 
 
 Vous aimez **PythonChallenges** et vous voulez proposer vos challenges, proposer une solution ou même corriger une simple faute d'orthographe ? 
 Tout le monde peut contribuer à l'amélioration du projet !
-Les étapes à suivre pour contribuer se trouvent dans le fichier [CONTRIBUTE.md](./CONTRIBUTE.md).
+Les étapes à suivre pour contribuer se trouvent dans le fichier [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## 📄 Licence
 
