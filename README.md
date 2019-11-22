@@ -26,6 +26,8 @@ Chaque **challenge** dispose de ça **solution** et de son **énoncé** afin que
 - [La liste de course](./La_liste_de_course)
 - [Mastermind](./Mastermind)
 - [Nombre Mystère](./Nombre_mystere)
+- [Nombre Premier](./Nombre_premier)
+- [Palindrome](./Palindrome)
 - [Trigonométrie - Mesure Principale](./Trigonometrie_Mesure_Principale)
 
 ## 🧠 Bloquer sur un exercice ?
