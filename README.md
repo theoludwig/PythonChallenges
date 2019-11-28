@@ -23,11 +23,14 @@ Chaque **challenge** dispose de sa **solution** et de son **énoncé** afin que 
 
 - [Calcul de moyenne](./Calcul_de_moyenne)
 - [Encodage des caractères et conversion en Binaire, en Hexadécimal, etc.](./Encodage_caractere)
+- [La suite de Fibonacci](./Fibonacci)
 - [La liste de course](./La_liste_de_course)
 - [Mastermind](./Mastermind)
 - [Nombre Mystère](./Nombre_mystere)
 - [Nombre Premier](./Nombre_premier)
 - [Palindrome](./Palindrome)
+- [Pyramide](./Pyramide)
+- [Trier des fichiers selon leur type](./Trier_des_fichiers)
 - [Trigonométrie - Mesure Principale](./Trigonometrie_Mesure_Principale)
 
 ## 🧠 Bloquer sur un exercice ?
