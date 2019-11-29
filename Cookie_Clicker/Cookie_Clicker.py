@@ -19,7 +19,7 @@ def compteur():
     nombreCompteur += 1
     labelCompteur.config(text = nombreCompteur)
 
-# Paramètres fenètre
+# Paramètres fenêtre
 window = tkinter.Tk()
 window.title("Cookie Clicker")
 window.geometry("640x540")

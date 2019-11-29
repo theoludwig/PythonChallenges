@@ -9,7 +9,7 @@
 
 ## Énoncé
 
-Vous devez créer une interface graphique avec une image de cookie au centre de l'écran et à chaque fois que l'utilisateur clique sur le cookie incrémente le compteur de cookie.
+Vous devez créer une interface graphique avec une image de cookie au centre de l'écran et à chaque fois que l'utilisateur clique sur le cookie incrémente le compteur de cookie. Une fois que la fenêtre a été fermé, enregistre le compteur dans un fichier .json comme ça à la prochaine exécution du programme le compteur sera initialisé à la valeur de la dernière utilisation.
 
 Résultat :
 
