@@ -13,7 +13,7 @@ Vous devez créer une interface graphique avec une image de cookie au centre de 
 
 Résultat :
 
-![Resultat](./resultat.png)
+![Resultat](./resultat.PNG)
 
 ## Solution
 
