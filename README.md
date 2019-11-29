@@ -22,6 +22,7 @@ Chaque **challenge** dispose de sa **solution** et de son **énoncé** afin que 
 ## 📖 Sommaire des challenges
 
 - [Calcul de moyenne](./Calcul_de_moyenne)
+- [Cookie Clicker (interface graphique)](./Cookie_Clicker)
 - [Encodage des caractères et conversion en Binaire, en Hexadécimal, etc.](./Encodage_caractere)
 - [La suite de Fibonacci](./Fibonacci)
 - [La liste de course](./La_liste_de_course)

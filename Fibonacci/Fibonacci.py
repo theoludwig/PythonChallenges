@@ -1,7 +1,7 @@
 def fibonacci(compteur):
     a, b = 0, 1 
     resultat = [] 
-    for i in range(compteur): 
+    for _ in range(compteur):
         resultat.append(a)
         a, b = b, a+b
     return resultat
