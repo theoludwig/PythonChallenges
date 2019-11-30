@@ -22,7 +22,7 @@ Exemple :
 ├── Court_metrage.mp4  
 ```
 
-Résultat : Videos
+Résultat :
 ```
 ├── Documents
 |   ├── Facture.pdf 
