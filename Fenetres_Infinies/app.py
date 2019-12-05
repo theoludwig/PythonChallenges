@@ -3,8 +3,9 @@ from PySide2 import QtWidgets # pip install PySide2
 fenetres = [] # liste qui contient toutes les fenêtres ouvertes 
 
 def mettreAJourNombreFenetre():
+    nombreDeFenetres = len(fenetres)
     for fenetre in fenetres:
-        fenetre.resultatNombreFenetre.setText(f'Nombre de fenêtres : {len(fenetres)}')
+        fenetre.resultatNombreFenetre.setText(f'Nombre de fenêtres : {nombreDeFenetres}')
 
 def creerFenetre():
     fenetres.append(Fenetre())
@@ -17,7 +18,7 @@ class Fenetre(QtWidgets.QWidget):
         self.resize(280, 50)
         layout = QtWidgets.QVBoxLayout(self)
         button = QtWidgets.QPushButton('Cliquez sur le bouton')
-        self.resultatNombreFenetre = QtWidgets.QLineEdit(f'Nombre de fenêtres : 0')
+        self.resultatNombreFenetre = QtWidgets.QLineEdit('Nombre de fenêtres : 0')
 
         layout.addWidget(button)
         layout.addWidget(self.resultatNombreFenetre)
